@@ -1,0 +1,7 @@
+# (uncomment to add a dependency)
+dependencies:
+ - name: mermaid
+   version: 10.4.0
+   src: htmlwidgets/lib/mermaid-10.4.0
+   script: mermaid.min.js
+#   stylesheet:
